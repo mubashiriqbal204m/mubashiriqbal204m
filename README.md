@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mubashir Iqbal 👋
 
-<!--
-**mubashiriqbal204m/mubashiriqbal204m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Math-driven CS student building toward AI & Data Science
 
-Here are some ideas to get you started:
+I'm a BSCS student at FUUAST, Karachi. Math is my strongest side, and I use it to understand how algorithms, data and AI actually work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🧮 Math strengths**
+Calculus · Linear Algebra · Probability & Statistics · Discrete Mathematics
+
+**🎯 Focus areas**
+- **AI & Machine Learning:** the math and logic behind models
+- **Data & Databases:** SQL, data modeling and turning data into decisions
+- **Automation:** AI workflows with n8n and GoHighLevel
+- **Computer Fundamentals:** algorithms, automata and digital logic
+
+**🛠️ Tech stack**
+Python · SQL · n8n · GoHighLevel · Git & GitHub
+
+📍 Karachi, Pakistan · Open to internships and collaborations
