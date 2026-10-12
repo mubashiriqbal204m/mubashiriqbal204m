@@ -1,6 +1,6 @@
 # Hi, I'm Mubashir Iqbal 👋
 
-### Math-driven CS student building toward AI & Data Science
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&width=600&lines=Math-driven+CS+student;Building+toward+AI+%26+Data+Science;Automating+workflows+with+n8n)](https://github.com/mubashiriqbal204m)
 
 I'm a BSCS student at FUUAST, Karachi. Math is my strongest side, and I use it to understand how algorithms, data and AI actually work under the hood.
 
@@ -14,6 +14,11 @@ Calculus · Linear Algebra · Probability & Statistics · Discrete Mathematics
 - **Computer Fundamentals:** algorithms, automata and digital logic
 
 **🛠️ Tech stack**
-Python · SQL · n8n · GoHighLevel · Git & GitHub
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" alt="Python, MySQL, Git, GitHub, VS Code" />
+</p>
+
+Also: n8n · GoHighLevel
 
 📍 Karachi, Pakistan · Open to internships and collaborations
