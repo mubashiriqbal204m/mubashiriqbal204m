@@ -24,5 +24,6 @@ Also: n8n · GoHighLevel
 **🤝 Connect with me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubashir-iqbal-hr-karachi-socialmedia-hiring-bitone-urgent-required-management-hiring-graphics-jobs/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubashiriqbal.204m@gmail.com)
 
 📍 Karachi, Pakistan · Open to internships and collaborations
